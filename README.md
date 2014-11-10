@@ -1,4 +1,4 @@
 jc-cc
 =====
 
-JavaScript CodeCademy course
+JavaScript CodeCademy course examples and exercices
